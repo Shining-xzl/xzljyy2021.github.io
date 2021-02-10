@@ -22,3 +22,19 @@
 	font-family: hanbao;
 	src: url('../font/hanbao.ttf');
 }
+@font-face {
+	font-family: xieti;
+	src: url('../font/xieti.ttf');
+}
+@font-face {
+	font-family: gouwan;
+	src: url('../font/gouwan.ttf');
+}
+@font-face {
+	font-family: shuyan;
+	src: url('../font/shuyan.ttf');
+}
+@font-face {
+	font-family: kai;
+	src: url('../font/kai.ttf');
+}
